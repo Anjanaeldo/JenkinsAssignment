@@ -34,7 +34,7 @@
 							<form action="print.do" method="post">
 								<div class=”form-group”>
 								
-									<label >Hello ... Testing jenkins automation build....</label>
+									<label >Hello.Testing jenkins automation build....Success</label>
 								</div>
 							</form>
 						</div>
